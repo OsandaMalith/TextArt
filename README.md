@@ -1,4 +1,4 @@
 TextArt
 =======
 
-Basic Ascii Generator written in C
+Basic text art Generator written in C
